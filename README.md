@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Kanan.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3> 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a Frontend developer at International Bank of Azerbaijan.
